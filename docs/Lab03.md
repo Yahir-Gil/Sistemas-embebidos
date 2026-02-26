@@ -1082,22 +1082,3 @@ void app_main(void)
 ![Diagrama del sistema](recursos/imgs/Leds.png)
 
 * The 2 buttons in the page 
-
-![Diagrama del sistema](recursos/imgs/2_botones.png)
-
-
-* 2 buttons, 2 leds and the button for counter
-
-![Diagrama del sistema](recursos/imgs/Counter.png)
-
-* Page 
-
-![Diagrama del sistema](recursos/imgs/Page_counter.png)
-
-* Motor DC and the slider
-
-![Diagrama del sistema](recursos/imgs/Terminal_3.png)
-
-*
-
-![Diagrama del sistema](recursos/imgs/Turtlesim.jpeg)
